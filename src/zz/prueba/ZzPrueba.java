@@ -21,6 +21,7 @@ public class ZzPrueba {
         System.out.println("El coche es: " + coche.getMarca()+" de "+ coche.getPotencia());
         System.out.println("HOLA MUNDO");   
         System.out.println("hh");
+        System.out.println("la hora es: 19:53");
     }
     
 }
